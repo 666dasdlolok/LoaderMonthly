@@ -83,6 +83,11 @@ local Button = Tab:CreateButton({
 	elseif game.PlaceId == 10446125875then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/666dasdlolok/AnimeFruitSim/main/Main",true))();
 	wait(1) 
+	
+	
+		elseif game.PlaceId == 4934471106 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/666dasdlolok/MHM/main/Main",true))();
+	wait(1)
 
     end
     wait(1)
